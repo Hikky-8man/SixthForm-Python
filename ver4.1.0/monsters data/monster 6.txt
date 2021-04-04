@@ -1,0 +1,13 @@
+HEALTH
+130
+MOVELIST
+heal
+avalanche
+ice age
+
+ATTACK
+8
+DEFENSE
+10
+TYPE
+None

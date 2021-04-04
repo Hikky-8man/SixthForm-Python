@@ -1,0 +1,12 @@
+1
+400
+400
+70
+770
+None
+None
+None
+0
+0
+0
+[[],[monster1,monster2,monster3]]

@@ -1,0 +1,13 @@
+HEALTH
+None
+MOVELIST
+Attack 1
+Attack 2
+Attack 3
+
+ATTACK
+None
+DEFENSE
+None
+TYPE
+None

@@ -1,0 +1,13 @@
+HEALTH
+80
+MOVELIST
+cut
+gust
+wind sythe
+
+ATTACK
+15
+DEFENSE
+3
+TYPE
+Demon

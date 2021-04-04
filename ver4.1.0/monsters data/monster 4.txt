@@ -1,0 +1,13 @@
+HEALTH
+200
+MOVELIST
+incinerate
+heal
+wind sythe
+
+ATTACK
+20
+DEFENSE
+0
+TYPE
+None

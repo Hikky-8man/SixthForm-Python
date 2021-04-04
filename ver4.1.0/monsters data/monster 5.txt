@@ -1,0 +1,13 @@
+HEALTH
+180
+MOVELIST
+cremate
+freeze
+wind sythe
+
+ATTACK
+5
+DEFENSE
+5
+TYPE
+None
