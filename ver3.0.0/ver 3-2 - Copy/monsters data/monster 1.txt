@@ -1,0 +1,13 @@
+HEALTH
+100
+MOVELIST
+scortch
+burn
+incinerate
+
+ATTACK
+10
+DEFENSE
+5
+TYPE
+Mortal

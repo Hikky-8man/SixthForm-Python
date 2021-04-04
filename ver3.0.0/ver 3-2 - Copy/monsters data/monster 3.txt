@@ -1,0 +1,13 @@
+HEALTH
+120
+MOVELIST
+iceicle
+avalanche
+blizard
+
+ATTACK
+5
+DEFENSE
+20
+TYPE
+Angel
